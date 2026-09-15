@@ -9,11 +9,8 @@ title: Flashing Guide
 Before your keyboard can function, you'll need to flash it with the appropriate firmware. The firmware is available in the [GitHub repository](https://github.com/anywhy-io/flake-firmware).
 
 To download the firmware:
-1. Visit the repository's [Actions page](https://github.com/anywhy-io/flake-firmware/actions)
-2. Select the most recent successful build (indicated by a green checkmark)
-3. Download the firmware package
-
-<img alt="Firmware download page" width="100%" src="./img/flashing_guide/firmware.png">
+1. Visit the repository's [releases page](https://github.com/anywhy-io/flake-firmware/releases)
+2. Download the latest firmware
 
 ## Flashing Process
 
