@@ -1,5 +1,14 @@
 # Anywhy Flake Firmware
 
-> **Important**: If you have a board version prior to 1.0, you should use the config from Flake_v0.1/v0.2 [branch](https://github.com/anywhy-io/flake-zmk-module/tree/Flake_v0.1/v0.2) and [actions](https://github.com/anywhy-io/flake-zmk-module/actions?query=branch%3AFlake_v0.1%2Fv0.2).
+[ZMK Firmware](https://zmk.dev) configuration for the
+[Anywhy Flake](https://github.com/anywhy-io/flake) keyboard.
 
-<img alt="keymap" width="100%" src="./keymap.svg">
+> **Important**: If you have a board version prior to 1.0, use the config from
+> the [Flake_v0.1/v0.2 branch](https://github.com/anywhy-io/flake-firmware/tree/Flake_v0.1/v0.2)
+> and its [actions](https://github.com/anywhy-io/flake-firmware/actions?query=branch%3AFlake_v0.1%2Fv0.2).
+
+<img alt="keymap" width="100%" src="./docs/keymap.svg">
+
+## Documentation
+
+- [Flashing Guide](./docs/flashing_guide.md)
