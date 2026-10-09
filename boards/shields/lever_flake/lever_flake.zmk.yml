@@ -1,0 +1,12 @@
+file_format: "1"
+id: lever_flake
+name: Lever Flake
+type: shield
+url: https://github.com/lever-tech/flake
+requires: [xiao_ble//zmk]
+features:
+  - keys
+  - studio
+siblings:
+  - lever_flake_left
+  - lever_flake_right

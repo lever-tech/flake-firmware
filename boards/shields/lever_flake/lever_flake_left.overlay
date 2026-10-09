@@ -1,4 +1,4 @@
-#include "anywhy_flake.dtsi"
+#include "lever_flake.dtsi"
 
 &kscan0 {
     col-gpios

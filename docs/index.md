@@ -17,4 +17,4 @@ and customizing its keymap.
 ## Source
 
 The firmware, keymap, and build configuration live in
-[anywhy-io/flake-firmware](https://github.com/anywhy-io/flake-firmware).
+[lever-tech/flake-firmware](https://github.com/lever-tech/flake-firmware).

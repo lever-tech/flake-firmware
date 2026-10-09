@@ -6,10 +6,10 @@ title: Flashing Guide
 
 ## Getting the Firmware
 
-Before your keyboard can function, you'll need to flash it with the appropriate firmware. The firmware is available in the [GitHub repository](https://github.com/anywhy-io/flake-firmware).
+Before your keyboard can function, you'll need to flash it with the appropriate firmware. The firmware is available in the [GitHub repository](https://github.com/lever-tech/flake-firmware).
 
 To download the firmware:
-1. Visit the repository's [releases page](https://github.com/anywhy-io/flake-firmware/releases)
+1. Visit the repository's [releases page](https://github.com/lever-tech/flake-firmware/releases)
 2. Download the latest firmware
 
 ## Flashing Process
@@ -18,13 +18,13 @@ To download the firmware:
 1. Connect the left half of your keyboard to your computer via USB
 2. Press the reset button twice quickly to enter bootloader mode
    - The keyboard will appear as a storage device in your file manager
-3. Locate the firmware file beginning with "anywhy_flake_left..." (with `.uf2` extension)
+3. Locate the firmware file beginning with "lever_flake_left..." (with `.uf2` extension)
 4. Copy this file to the keyboard's storage device
    - The device will automatically disconnect once flashing is complete
 
 ### Right Half
 1. Disconnect the left half and connect the right half
-2. Repeat the same process using the file beginning with "anywhy_flake_right..."
+2. Repeat the same process using the file beginning with "lever_flake_right..."
 
 The keyboard is now fully functional, further steps are optional and only needed in case you want to modify the keymaps.
 
@@ -36,7 +36,7 @@ The keyboard is now fully functional, further steps are optional and only needed
 
 <img alt="ZMK Studio USB connection" width="100%" src="./img/flashing_guide/zmk_usb.png">
 
-3. Click the USB button and select "Anywhy Flake" from the device list
+3. Click the USB button and select "Lever Flake" from the device list
 
 ### Unlocking the Keyboard
 

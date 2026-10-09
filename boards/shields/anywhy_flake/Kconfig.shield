@@ -1,5 +1,0 @@
-config SHIELD_ANYWHY_FLAKE_LEFT
-    def_bool $(shields_list_contains,anywhy_flake_left)
-
-config SHIELD_ANYWHY_FLAKE_RIGHT
-    def_bool $(shields_list_contains,anywhy_flake_right)

@@ -1,9 +1,9 @@
 {
-    "id": "anywhy_flake",
-    "name": "Anywhy Flake",
+    "id": "lever_flake",
+    "name": "Lever Flake",
     "layouts": {
       "large_layout": {
-        "name": "Anywhy Flake L layout",
+        "name": "Lever Flake L layout",
         "layout": [
           { "row": 0, "col":  0, "x":  0, "y": 0.75 },
           { "row": 0, "col":  1, "x":  1, "y": 0.75 },
@@ -70,7 +70,7 @@
         ]
       },
       "medium_layout": {
-        "name": "Anywhy Flake M layout",
+        "name": "Lever Flake M layout",
         "layout": [
           { "row": 1, "col":  0, "x":  0, "y": 0.75 },
           { "row": 1, "col":  1, "x":  1, "y": 0.75 },
@@ -124,7 +124,7 @@
         ]
       },
       "small_layout": {
-        "name": "Anywhy Flake S layout",
+        "name": "Lever Flake S layout",
         "layout": [
           { "row": 1, "col":  1, "x":  0, "y": 0.75 },
           { "row": 1, "col":  2, "x":  1, "y": 0.25 },

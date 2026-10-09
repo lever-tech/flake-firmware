@@ -1,7 +1,7 @@
-if SHIELD_ANYWHY_FLAKE_LEFT
+if SHIELD_LEVER_FLAKE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Anywhy Flake"
+    default "Lever Flake"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
@@ -11,7 +11,7 @@ config ZMK_STUDIO
 
 endif
 
-if SHIELD_ANYWHY_FLAKE_LEFT || SHIELD_ANYWHY_FLAKE_RIGHT
+if SHIELD_LEVER_FLAKE_LEFT || SHIELD_LEVER_FLAKE_RIGHT
 
 config ZMK_SPLIT
     default y

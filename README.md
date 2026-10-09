@@ -1,6 +1,6 @@
-# Anywhy Flake Firmware
+# Lever Flake Firmware
 
-[ZMK Firmware](https://zmk.dev) configuration for the [Anywhy Flake](https://github.com/anywhy-io/flake) keyboard.
+[ZMK Firmware](https://zmk.dev) configuration for the [Lever Flake](https://github.com/lever-tech/flake) keyboard.
 
 <img alt="keymap" width="100%" src="./docs/keymap.svg">
 
